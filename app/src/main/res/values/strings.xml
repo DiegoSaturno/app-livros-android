@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLivros</string>
+    <string name="mail_label">Login</string>
+    <string name="password_label">Password</string>
+    <string name="submit_label">Submit</string>
+    <string name="mail_hint">e.g.: name@mail.com</string>
+    <string name="description_svg_login">A book icon</string>
+</resources>
